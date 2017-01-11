@@ -1,3 +1,2 @@
 Hello, Git!
-Hello, Mada!
-Update
+Sharing remotely is fun and easy
